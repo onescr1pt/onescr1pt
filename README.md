@@ -1,8 +1,6 @@
 
 ---
 
-> ```📫```
-> --- How to reach me:
-> [ -> Here <- ](https://cutt.ly/MEJvFIo "contact")
+> ### [ -> Leave me a message... <- ](https://cutt.ly/MEJvFIo "contact")
 
 ---
